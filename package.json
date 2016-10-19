@@ -1,0 +1,33 @@
+{
+  "name": "dropbox_assignment",
+  "version": "1.0.0",
+  "description": "Build a Dropbox Clone, which is a fancy way of saying a directory that is mirrored in realtime across multiple locations, typically acrosss a network.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --use-strict server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenxi969/nodejs_week_2_assignment.git"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "bluebird-nodeify": "^1.1.0",
+    "chokidar": "^1.4.3",
+    "co": "^4.6.0",
+    "co-express": "^1.2.1",
+    "express": "^4.13.4",
+    "json-socket": "^0.1.2",
+    "mime-types": "^2.1.10",
+    "mkdirp": "^0.5.1",
+    "morgan": "^1.7.0",
+    "rimraf": "^2.5.2",
+    "safeguards": "0.0.3",
+    "songbird": "^1.0.2",
+    "trycatch": "^1.5.21",
+    "yargs": "^3.32.0"
+  }
+}
