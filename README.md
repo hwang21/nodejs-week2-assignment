@@ -17,5 +17,5 @@ Completed:
 Walkthrough Gif:
 [Add walkthrough.gif to the project root]
 
-![Video Walkthrough](walkthrough.gif)
+![Video Walkthrough](walk_through.gif)
 
